@@ -1,0 +1,1 @@
+console.log("Trying to use Webpack with Firebase V9");
